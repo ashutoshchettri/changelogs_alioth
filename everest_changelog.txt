@@ -1,0 +1,10 @@
+EverestOS 1.1 - Khumbu 
+Device side changelogs
+
+- Initial QPR2 build
+- Removed parts dolby and add oneplus dolby
+- Leica camera updated to 7.3
+- Optimize statusbar paddings
+- Fixed lags which were present in previous build (Did some powerhint changes for this)
+- Update adreno blobs from LA.VENDOR.1.0.r1-16000-WAIPIO..QSSI13.0
+- Increase volume steps to 30
